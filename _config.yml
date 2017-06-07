@@ -1,0 +1,26 @@
+# top level stuff you probably don't need to touch
+
+
+
+
+# edit here to achieve your personal greatness
+url: http://anonna.mektekbd.com
+baseurl: http://anonna.mektekbd.com/
+title: Tahsina Monir Anonna
+author: Tahsina Monir Anonna
+description: Personal blog and resume
+avatar: anonna.jpg
+email: tahosina.anna@gmail.com
+phone: +8801703440031
+facebook: tahsina.monir.anonna
+github: TahsinaMonirAnonna # username
+twitter: Tahsina_Anonna
+linkedin: tahsina-monir-anonna-8977b013b
+stackoverflow: users/8122333/tahsina-monir-anonna   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: MekTek
+google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
